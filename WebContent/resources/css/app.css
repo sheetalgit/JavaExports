@@ -1,0 +1,26 @@
+.icon-pdf
+{
+	background: url(../images/pdf-icon.png) no-repeat left center !important;
+}
+
+.icon-png
+{
+	background: url(../images/png-icon.png) no-repeat left center !important;
+}
+
+.sch-event
+{
+    border-radius:5px;    
+}
+    
+.normalEvent    
+{
+	background-color: lightblue;
+	border-color: lightblue;
+}
+
+.specialEventType
+{
+	background-color: lime;
+	border-color: lime;
+}
